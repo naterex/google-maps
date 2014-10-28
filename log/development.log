@@ -122,3 +122,2114 @@ Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 15:56:34 +080
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 15:56:34 +0800
+
+
+Started GET "/places" for 127.0.0.1 at 2014-10-28 16:00:03 +0800
+Processing by PlacesController#index as HTML
+  [1m[35mPlace Load (0.1ms)[0m  SELECT "places".* FROM "places"
+  Rendered places/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 115ms (Views: 113.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:00:03 +0800
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:00:03 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:00:03 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:03 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:03 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-28 16:00:03 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:03 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:03 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:03 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:03 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:03 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:03 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:03 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:03 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:03 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:03 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:03 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:03 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:03 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:03 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:03 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:03 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:03 +0800
+
+
+Started GET "/places" for 127.0.0.1 at 2014-10-28 16:00:06 +0800
+Processing by PlacesController#index as HTML
+  [1m[36mPlace Load (0.1ms)[0m  [1mSELECT "places".* FROM "places"[0m
+  Rendered places/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 123ms (Views: 122.5ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:00:06 +0800
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:00:06 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:06 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-28 16:00:06 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:00:06 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:06 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:06 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:06 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:06 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:06 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:06 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:06 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:06 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:06 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:06 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:06 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:06 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:06 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:06 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:06 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:06 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:06 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:00:06 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-28 16:04:25 +0800
+Processing by PlacesController#index as HTML
+  [1m[35mPlace Load (0.1ms)[0m  SELECT "places".* FROM "places"
+  Rendered places/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 114ms (Views: 113.9ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:25 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:25 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-28 16:04:25 +0800
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:04:25 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:04:25 +0800
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:04:25 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:25 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:25 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:25 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:25 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:25 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:25 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:25 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:25 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:25 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:25 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:25 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:25 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:25 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:25 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:25 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:25 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:25 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-28 16:04:27 +0800
+Processing by PlacesController#index as HTML
+  [1m[36mPlace Load (0.1ms)[0m  [1mSELECT "places".* FROM "places"[0m
+  Rendered places/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 113ms (Views: 112.3ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:04:28 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-28 16:04:28 +0800
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:04:28 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:04:28 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:28 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:28 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:28 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:28 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:28 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:28 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:28 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:28 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:28 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:28 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:28 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:28 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:28 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:28 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:28 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:28 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:28 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:28 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:04:28 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-28 16:05:19 +0800
+Processing by PlacesController#index as HTML
+  [1m[35mPlace Load (0.1ms)[0m  SELECT "places".* FROM "places"
+  Rendered places/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 117ms (Views: 115.9ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:05:20 +0800
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:05:20 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-28 16:05:20 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:05:20 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:05:20 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:05:20 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:05:20 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:05:20 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:05:20 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:05:20 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:05:20 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:05:20 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:05:20 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:05:20 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:05:20 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:05:20 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:05:20 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:05:20 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:05:20 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:05:20 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:05:20 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:05:20 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:05:20 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-28 16:06:00 +0800
+Processing by PlacesController#index as HTML
+  [1m[36mPlace Load (0.1ms)[0m  [1mSELECT "places".* FROM "places"[0m
+  Rendered places/index.html.erb within layouts/application (8.8ms)
+Completed 200 OK in 122ms (Views: 121.6ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:06:00 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:06:00 +0800
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:06:00 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:06:00 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-28 16:06:00 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:06:00 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:06:00 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:06:00 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:06:00 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:06:00 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:06:00 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:06:00 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:06:00 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:06:00 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:06:00 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:06:00 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:06:00 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:06:00 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:06:00 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:06:00 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:06:00 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:06:00 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:06:00 +0800
+
+
+Started GET "/places/new" for 127.0.0.1 at 2014-10-28 16:06:59 +0800
+Processing by PlacesController#new as HTML
+  Rendered places/_form.html.erb (18.1ms)
+  Rendered places/new.html.erb within layouts/application (23.8ms)
+Completed 200 OK in 144ms (Views: 142.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-28 16:07:44 +0800
+Processing by PlacesController#index as HTML
+  [1m[35mPlace Load (0.2ms)[0m  SELECT "places".* FROM "places"
+  Rendered places/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 103ms (Views: 102.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:07:44 +0800
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:07:44 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:07:44 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:07:44 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:07:44 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-28 16:07:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:07:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:07:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:07:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:07:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:07:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:07:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:07:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:07:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:07:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:07:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:07:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:07:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:07:44 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:07:44 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:07:44 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:07:44 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:07:44 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-28 16:12:07 +0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PlacesController#index as HTML
+  [1m[35mPlace Load (0.1ms)[0m  SELECT "places".* FROM "places"
+  Rendered places/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 182ms (Views: 170.9ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:12:07 +0800
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:12:07 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:12:07 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:07 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-28 16:12:07 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:07 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:07 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:07 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:07 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:07 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:07 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:07 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:07 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:07 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:07 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:07 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:07 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:07 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:07 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:07 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:07 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:07 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:07 +0800
+
+
+Started GET "/places/new" for 127.0.0.1 at 2014-10-28 16:12:10 +0800
+Processing by PlacesController#new as HTML
+  Rendered places/_form.html.erb (14.4ms)
+  Rendered places/new.html.erb within layouts/application (17.2ms)
+Completed 200 OK in 115ms (Views: 112.7ms | ActiveRecord: 0.5ms)
+
+
+Started POST "/places" for 127.0.0.1 at 2014-10-28 16:12:47 +0800
+Processing by PlacesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"U6kEEpi8UrNtblnacxeApEnA/ECcNqDQiY+DWfbo06k=", "place"=>{"name"=>"Nate's Home", "address"=>"340 S. Lemon Ave, Walnut, CA 91789", "lat"=>"", "lng"=>""}, "commit"=>"Create Place"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "places" ("address", "created_at", "name", "updated_at") VALUES (?, ?, ?, ?)  [["address", "340 S. Lemon Ave, Walnut, CA 91789"], ["created_at", "2014-10-28 08:12:50.309493"], ["name", "Nate's Home"], ["updated_at", "2014-10-28 08:12:50.309493"]]
+  [1m[36m (0.8ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/places/1
+Completed 302 Found in 3014ms (ActiveRecord: 1.5ms)
+
+
+Started GET "/places/1" for 127.0.0.1 at 2014-10-28 16:12:50 +0800
+Processing by PlacesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPlace Load (0.2ms)[0m  SELECT  "places".* FROM "places"  WHERE "places"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered places/show.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 155ms (Views: 153.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:12:50 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-28 16:12:50 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:12:50 +0800
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:12:50 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:50 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:50 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:50 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:50 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:50 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:50 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:50 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:50 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:50 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:50 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:50 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:50 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:50 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:50 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:50 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:50 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:50 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:50 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:12:50 +0800
+
+
+Started GET "/places/1" for 127.0.0.1 at 2014-10-28 16:13:01 +0800
+Processing by PlacesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPlace Load (0.1ms)[0m  [1mSELECT  "places".* FROM "places"  WHERE "places"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered places/show.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 109ms (Views: 107.9ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:13:02 +0800
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:13:02 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:02 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-28 16:13:02 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:02 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:13:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:02 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:02 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:02 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:02 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:02 +0800
+
+
+Started GET "/places" for 127.0.0.1 at 2014-10-28 16:13:21 +0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PlacesController#index as HTML
+  [1m[35mPlace Load (0.2ms)[0m  SELECT "places".* FROM "places"
+  Rendered places/index.html.erb within layouts/application (15.6ms)
+Completed 200 OK in 210ms (Views: 199.0ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/places" for 127.0.0.1 at 2014-10-28 16:13:23 +0800
+Processing by PlacesController#index as HTML
+  [1m[36mPlace Load (0.2ms)[0m  [1mSELECT "places".* FROM "places"[0m
+  Rendered places/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 137ms (Views: 136.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:13:23 +0800
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:13:23 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:13:23 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:23 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-28 16:13:23 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:23 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:23 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:23 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:23 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:23 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:23 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:23 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:23 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:23 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:23 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:23 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:23 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:23 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:23 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:23 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:23 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:23 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:23 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-28 16:13:32 +0800
+Processing by PlacesController#index as HTML
+  [1m[35mPlace Load (0.1ms)[0m  SELECT "places".* FROM "places"
+  Rendered places/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 95ms (Views: 94.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:13:32 +0800
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:13:32 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-28 16:13:32 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:32 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:32 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:13:32 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:32 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:32 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:32 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:32 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:32 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:32 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:32 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:32 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:32 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:32 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:32 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:32 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:32 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:32 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:32 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:32 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:32 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-28 16:13:36 +0800
+Processing by PlacesController#index as HTML
+  [1m[36mPlace Load (0.1ms)[0m  [1mSELECT "places".* FROM "places"[0m
+  Rendered places/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 104ms (Views: 103.1ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:13:37 +0800
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:13:37 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:13:37 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-28 16:13:37 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:37 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:37 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:37 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:37 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:37 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:37 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:37 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:37 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:37 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:37 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:37 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:37 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:37 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:37 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:37 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:37 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:37 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:37 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:13:37 +0800
+
+
+Started GET "/places/new" for 127.0.0.1 at 2014-10-28 16:13:40 +0800
+Processing by PlacesController#new as HTML
+  Rendered places/_form.html.erb (9.5ms)
+  Rendered places/new.html.erb within layouts/application (12.4ms)
+Completed 200 OK in 116ms (Views: 115.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/places" for 127.0.0.1 at 2014-10-28 16:14:41 +0800
+Processing by PlacesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"U6kEEpi8UrNtblnacxeApEnA/ECcNqDQiY+DWfbo06k=", "place"=>{"name"=>"Cyberport", "address"=>"100 Cyberport Rd hong kong", "lat"=>"", "lng"=>""}, "commit"=>"Create Place"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "places" ("address", "created_at", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["address", "100 Cyberport Rd hong kong"], ["created_at", "2014-10-28 08:14:44.374939"], ["name", "Cyberport"], ["updated_at", "2014-10-28 08:14:44.374939"]]
+  [1m[35m (1.7ms)[0m  commit transaction
+Redirected to http://localhost:3000/places/2
+Completed 302 Found in 3021ms (ActiveRecord: 2.3ms)
+
+
+Started GET "/places/2" for 127.0.0.1 at 2014-10-28 16:14:44 +0800
+Processing by PlacesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mPlace Load (0.2ms)[0m  [1mSELECT  "places".* FROM "places"  WHERE "places"."id" = ? LIMIT 1[0m  [["id", 2]]
+  Rendered places/show.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 105ms (Views: 102.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:14:44 +0800
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:14:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:14:44 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-28 16:14:44 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:14:44 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:14:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:14:44 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:14:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:14:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:14:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:14:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:14:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:14:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:14:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:14:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:14:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:14:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:14:44 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:14:44 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:14:44 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:14:44 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:14:44 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:14:44 +0800
+
+
+Started GET "/places" for 127.0.0.1 at 2014-10-28 16:14:47 +0800
+Processing by PlacesController#index as HTML
+  [1m[35mPlace Load (0.2ms)[0m  SELECT "places".* FROM "places"
+  Rendered places/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 91ms (Views: 90.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/places" for 127.0.0.1 at 2014-10-28 16:15:24 +0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PlacesController#index as HTML
+  [1m[35mPlace Load (0.2ms)[0m  SELECT "places".* FROM "places"
+  Rendered places/index.html.erb within layouts/application (13.2ms)
+Completed 200 OK in 184ms (Views: 172.6ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:15:24 +0800
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:15:24 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-28 16:15:24 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:24 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:15:24 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:24 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:24 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:24 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:24 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:24 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:24 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:24 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:24 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:24 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:24 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:24 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:24 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:24 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:24 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:24 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:24 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:24 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:24 +0800
+
+
+Started GET "/places" for 127.0.0.1 at 2014-10-28 16:15:27 +0800
+Processing by PlacesController#index as HTML
+  [1m[36mPlace Load (0.2ms)[0m  [1mSELECT "places".* FROM "places"[0m
+  Rendered places/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 120ms (Views: 119.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:15:27 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-28 16:15:27 +0800
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:15:27 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:15:27 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:27 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:27 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:27 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:27 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:27 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:27 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:27 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:27 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:27 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:27 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:27 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:27 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:27 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:27 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:27 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:27 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:27 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:27 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:27 +0800
+
+
+Started GET "/places/new" for 127.0.0.1 at 2014-10-28 16:15:43 +0800
+Processing by PlacesController#new as HTML
+  Rendered places/_form.html.erb (7.5ms)
+  Rendered places/new.html.erb within layouts/application (10.8ms)
+Completed 200 OK in 142ms (Views: 141.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-28 16:15:54 +0800
+Processing by PlacesController#index as HTML
+  [1m[35mPlace Load (0.1ms)[0m  SELECT "places".* FROM "places"
+  Rendered places/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 143ms (Views: 142.6ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:15:54 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:54 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-28 16:15:54 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:54 +0800
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:15:54 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:15:54 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:54 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:54 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:54 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:54 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:54 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:54 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:54 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:54 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:54 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:54 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:54 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:54 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:54 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:54 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:54 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:54 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:15:54 +0800
+
+
+Started GET "/places/new" for 127.0.0.1 at 2014-10-28 16:15:55 +0800
+Processing by PlacesController#new as HTML
+  Rendered places/_form.html.erb (2.5ms)
+  Rendered places/new.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 118ms (Views: 117.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/places" for 127.0.0.1 at 2014-10-28 16:16:13 +0800
+Processing by PlacesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"U6kEEpi8UrNtblnacxeApEnA/ECcNqDQiY+DWfbo06k=", "place"=>{"name"=>"HK serviced apt", "address"=>"123 Jervois St Hong Kong", "lat"=>"", "lng"=>""}, "commit"=>"Create Place"}
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "places" ("address", "created_at", "name", "updated_at") VALUES (?, ?, ?, ?)  [["address", "123 Jervois St Hong Kong"], ["created_at", "2014-10-28 08:16:16.070100"], ["name", "HK serviced apt"], ["updated_at", "2014-10-28 08:16:16.070100"]]
+  [1m[36m (1.6ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/places/3
+Completed 302 Found in 3015ms (ActiveRecord: 2.3ms)
+
+
+Started GET "/places/3" for 127.0.0.1 at 2014-10-28 16:16:16 +0800
+Processing by PlacesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[35mPlace Load (0.3ms)[0m  SELECT  "places".* FROM "places"  WHERE "places"."id" = ? LIMIT 1  [["id", 3]]
+  Rendered places/show.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 122ms (Views: 119.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:16:16 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:16 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:16 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-28 16:16:16 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:16:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:16 +0800
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:16:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:16 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:16 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:16 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:16 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:16 +0800
+
+
+Started GET "/places" for 127.0.0.1 at 2014-10-28 16:16:18 +0800
+Processing by PlacesController#index as HTML
+  [1m[36mPlace Load (0.1ms)[0m  [1mSELECT "places".* FROM "places"[0m
+  Rendered places/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 108ms (Views: 107.7ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/places" for 127.0.0.1 at 2014-10-28 16:16:35 +0800
+Processing by PlacesController#index as HTML
+  [1m[35mPlace Load (0.2ms)[0m  SELECT "places".* FROM "places"
+  Rendered places/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 109ms (Views: 108.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:16:35 +0800
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:16:35 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-28 16:16:35 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:16:35 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:35 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:35 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:35 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:35 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:35 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:35 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:35 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:35 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:35 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:35 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:35 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:35 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:35 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:35 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:35 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:35 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:35 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:35 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:16:35 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-28 16:17:02 +0800
+Processing by PlacesController#index as HTML
+  [1m[36mPlace Load (0.1ms)[0m  [1mSELECT "places".* FROM "places"[0m
+  Rendered places/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 124ms (Views: 123.1ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:17:02 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:17:02 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-28 16:17:02 +0800
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:17:02 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:02 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:02 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:02 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:02 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:02 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:02 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:02 +0800
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:17:05 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:17:05 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-28 16:17:05 +0800
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:17:05 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-28 16:17:28 +0800
+Processing by PlacesController#index as HTML
+  [1m[35mPlace Load (0.2ms)[0m  SELECT "places".* FROM "places"
+  Rendered places/index.html.erb within layouts/application (4.8ms)
+Completed 200 OK in 137ms (Views: 136.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:17:29 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:29 +0800
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:17:29 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-28 16:17:29 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:17:29 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:29 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:29 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:29 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:29 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:29 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:29 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:29 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:29 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:29 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:29 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:29 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:29 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:29 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:29 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:29 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:29 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:29 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:29 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-28 16:17:33 +0800
+Processing by PlacesController#index as HTML
+  [1m[36mPlace Load (0.1ms)[0m  [1mSELECT "places".* FROM "places"[0m
+  Rendered places/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 110ms (Views: 108.7ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:17:33 +0800
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:17:33 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:17:33 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:33 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:33 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-28 16:17:33 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:33 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:33 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:33 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:33 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:33 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:33 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:33 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:33 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:33 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:33 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:33 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:33 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:33 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:33 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:33 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:33 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:17:33 +0800
+
+
+Started GET "/places/new" for 127.0.0.1 at 2014-10-28 16:17:56 +0800
+Processing by PlacesController#new as HTML
+  Rendered places/_form.html.erb (3.1ms)
+  Rendered places/new.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 137ms (Views: 136.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/places" for 127.0.0.1 at 2014-10-28 16:18:13 +0800
+Processing by PlacesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"U6kEEpi8UrNtblnacxeApEnA/ECcNqDQiY+DWfbo06k=", "place"=>{"name"=>"Des Moines", "address"=>"412 49th St west des moines, ia 50265", "lat"=>"", "lng"=>""}, "commit"=>"Create Place"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "places" ("address", "created_at", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["address", "412 49th St west des moines, ia 50265"], ["created_at", "2014-10-28 08:18:16.561204"], ["name", "Des Moines"], ["updated_at", "2014-10-28 08:18:16.561204"]]
+  [1m[35m (1.7ms)[0m  commit transaction
+Redirected to http://localhost:3000/places/4
+Completed 302 Found in 3011ms (ActiveRecord: 2.1ms)
+
+
+Started GET "/places/4" for 127.0.0.1 at 2014-10-28 16:18:16 +0800
+Processing by PlacesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mPlace Load (0.1ms)[0m  [1mSELECT  "places".* FROM "places"  WHERE "places"."id" = ? LIMIT 1[0m  [["id", 4]]
+  Rendered places/show.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 115ms (Views: 113.4ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:18:16 +0800
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:18:16 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-28 16:18:16 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:18:16 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:18:16 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:18:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:18:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:18:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:18:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:18:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:18:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:18:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:18:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:18:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:18:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:18:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:18:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:18:16 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:18:16 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:18:16 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:18:16 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:18:16 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:18:16 +0800
+
+
+Started GET "/places" for 127.0.0.1 at 2014-10-28 16:18:19 +0800
+Processing by PlacesController#index as HTML
+  [1m[35mPlace Load (0.1ms)[0m  SELECT "places".* FROM "places"
+  Rendered places/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 121ms (Views: 119.7ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/places.json" for 127.0.0.1 at 2014-10-28 16:20:14 +0800
+Processing by PlacesController#index as JSON
+  [1m[36mPlace Load (0.1ms)[0m  [1mSELECT "places".* FROM "places"[0m
+  Rendered places/index.json.jbuilder (5.2ms)
+Completed 200 OK in 8ms (Views: 7.6ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/places/1.json" for 127.0.0.1 at 2014-10-28 16:20:28 +0800
+Processing by PlacesController#show as JSON
+  Parameters: {"id"=>"1"}
+  [1m[35mPlace Load (0.1ms)[0m  SELECT  "places".* FROM "places"  WHERE "places"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered places/show.json.jbuilder (0.5ms)
+Completed 200 OK in 4ms (Views: 2.7ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/places" for 127.0.0.1 at 2014-10-28 16:21:19 +0800
+Processing by PlacesController#index as HTML
+  [1m[36mPlace Load (0.2ms)[0m  [1mSELECT "places".* FROM "places"[0m
+  Rendered places/index.html.erb within layouts/application (5.4ms)
+Completed 200 OK in 132ms (Views: 131.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:21:19 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:21:19 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:21:19 +0800
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:21:19 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:21:19 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:21:19 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:21:19 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:21:20 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:21:20 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:21:20 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:21:20 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:21:20 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:21:20 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:21:20 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:21:20 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:21:20 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:21:20 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:21:20 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:21:20 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:21:20 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:21:20 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:21:20 +0800
+
+
+Started GET "/map" for 127.0.0.1 at 2014-10-28 16:26:05 +0800
+Processing by PlacesController#map as HTML
+  Rendered places/map.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 114ms (Views: 113.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:26:05 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:26:05 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:05 +0800
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:26:05 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:05 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:05 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:05 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:05 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:05 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:05 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:05 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:05 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:05 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:05 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:05 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:05 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:05 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:05 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:05 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:05 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:05 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:05 +0800
+
+
+Started GET "/places" for 127.0.0.1 at 2014-10-28 16:26:45 +0800
+Processing by PlacesController#index as HTML
+  [1m[35mPlace Load (0.2ms)[0m  SELECT "places".* FROM "places"
+  Rendered places/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 115ms (Views: 112.2ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-28 16:26:46 +0800
+
+
+Started GET "/assets/places.css?body=1" for 127.0.0.1 at 2014-10-28 16:26:46 +0800
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:46 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:46 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-28 16:26:46 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:46 +0800
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:46 +0800
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:46 +0800
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:46 +0800
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:46 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:46 +0800
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:46 +0800
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:46 +0800
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:46 +0800
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:46 +0800
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:46 +0800
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:46 +0800
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:46 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:46 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:46 +0800
+
+
+Started GET "/assets/places.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:46 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-28 16:26:46 +0800
